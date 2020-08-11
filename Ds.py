@@ -13,7 +13,9 @@ class Main:
 		;       Author : Panjul     ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-NOTE: This tool's only work for Indonesia number phone.
+NOTE: Alat ini hanya berfungsi untuk telepon nomor Indonesia.
+
+Ada masalah wa : 082389734419
 
 1. SMS Gratis
 2. OTP Matahari
