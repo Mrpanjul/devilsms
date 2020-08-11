@@ -15,7 +15,7 @@ class Main:
 
 NOTE: Alat ini hanya berfungsi untuk telepon nomor Indonesia.
 
-Ada masalah wa : 082389734419
+Whatsapp : 082389734419
 
 1. SMS Gratis
 2. OTP Matahari
