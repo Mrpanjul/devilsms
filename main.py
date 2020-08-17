@@ -21,7 +21,7 @@ NOTE: Kerjaan Bang Panjul kalo lagi gabut.
 4. OTP Olx.co.id
 5. OTP Sociolla.com
 """)
-		pilih=int(input('perintahkan bang Panjul --> '))
+		pilih=int(input('Pilih Nomor --> '))
 		if pilih == 1:
 			import src.payu
 		elif pilih == 2:
